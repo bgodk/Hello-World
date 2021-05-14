@@ -1,2 +1,2 @@
 # Hello-World
-My first acquaintance with GitHub. You wont find anything of importance here yet :-)
+My first acquaintance with GitHub. You won't find anything of importance here yet :-)
